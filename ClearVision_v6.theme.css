@@ -87,7 +87,7 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-  --columns: 3;
+  --columns: 1;
   --guildgap: 3;
   --aligndms: 0;
 }
